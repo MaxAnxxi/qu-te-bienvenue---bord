@@ -88,11 +88,6 @@ main{
     gap: 0.5rem;
 }
 
-#recent-articles>button{
-        border-radius: 0.75rem;
-        background-color: #A306B6;
-}
-
 #recent-articles>h2{
     grid-column-start: 2;
     align-self: center;
@@ -123,6 +118,8 @@ main{
     justify-self: center;
     width: 20%;
     height: auto;
+    border-radius: 0.75rem;
+    background-color: #A306B6;
 }
 
 #recent-articles>#scalable{
@@ -144,6 +141,8 @@ main{
     justify-self: center;
     width: 20%;
     height: auto;
+    border-radius: 0.75rem;
+    background-color: #A306B6;
 }
 
 
@@ -172,6 +171,8 @@ main{
     justify-self: center;
     width: 20%;
     height: auto;
+    border-radius: 0.75rem;
+    background-color: #A306B6;
 }
 
 
