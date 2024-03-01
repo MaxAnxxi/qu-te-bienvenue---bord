@@ -92,6 +92,7 @@ main{
     grid-column-start: 2;
     align-self: center;
     justify-self: center;
+    color: #A306B6;
 }
 
 #recent-articles>#responsive{
